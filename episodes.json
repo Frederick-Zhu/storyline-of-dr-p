@@ -1,0 +1,25 @@
+{
+    "character": [
+        "Emmanuel",
+        "Eric",
+        "Richard",
+        "Emily"
+    ],
+    "episodes": [
+        {
+            "season": 4,
+            "episode": 14,
+            "title": "【Feat. MTKoala】ASMR Dr Emmanuel Price的診所 S4E14",
+            "characters": ["Emmanuel", "MTKoala"],
+            "url": "https://www.bilibili.com/video/BV1Fs411y73Z",
+            "date": "2016-08-07",
+            "comments": ""
+        },
+        {
+            "title": "Dr Emmanuel Price的放松冥想导向",
+            "characters": ["Emmanuel"],
+            "url": "https://www.bilibili.com/video/BV18g4y1B75D",
+            "date": "2020-05-15"
+        }
+    ]
+}

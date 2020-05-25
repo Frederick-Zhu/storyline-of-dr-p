@@ -25,7 +25,7 @@ Emmanuel貌似在研制永生药水。在这个过程中顺手研制了各种药
 
 [BV1Nx4118774](https://www.bilibili.com/video/BV1Nx4118774)是`夏日怪談`系列。感觉是番外篇。重点请看顶置评论。
 
-[BV1Px411E7A8](https://www.bilibili.com/video/BV1Px411E7A8)中，Emmanuel出现并带走了实验对象（观众）并给予观众编号434758。
+[BV1Px411E7A8](https://www.bilibili.com/video/BV1Px411E7A8)中，Emmanuel出现并带走了实验对象（观众）并给予观众编号434758（断句为43/47/58）。
 
 最后一次出现在[BV18g4y1B75D](https://www.bilibili.com/video/BV18g4y1B75D)，剧中时间为2026年，实际位于S7E13和S7E15之间（S7E14没有明确定义，在S7E13和S7E15之间存在两集）。这份录像是在清理残骸时发现的，推测Emmanuel的实验室发生了某些事故。Emmanuel本人下落不明。在录像中的实验对象为`M.R.5880E7-1A`，试验地点为`Airstrip 24`（意义不明）。
 
